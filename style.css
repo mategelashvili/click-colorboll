@@ -1,0 +1,42 @@
+body{
+    background-color: gray;
+}
+
+.boll{
+    width: 250px;
+    height: 250px;
+    background-color: blue;
+    border-radius: 50%;
+    position: relative;
+    
+}
+.p{
+    font-size: 25px;
+    position: absolute;
+    color: aliceblue;
+   right: 120px;
+   bottom: 150px;
+}
+
+.time{
+    width: 450px;
+    height: 250px;
+    background-color: rgb(0, 0, 12);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+    justify-content: space-around;
+    font-size: 35px;
+    color: aliceblue;
+  
+    
+}
+.walper{
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
